@@ -5,8 +5,7 @@ Although this was the case, the experience greatly impacted me as I realized man
 
 
 ## Winter Break and Pre-planning
-Winter Break was when I first began the Project. I had planned to begin research, but studying a multitude of papers soon demoralized me as I encountered the deluge of information hidden behind arxiv pages and researchgate paywalls.
-
+Winter Break was when I first began the Project. I had planned to begin research, but studying a multitude of papers soon demoralized me as I encountered the deluge of information hidden behind Arxiv pages and researchgate paywalls. Winter break revealed a whole area of inefficiency and prioritization shortcomings that would continue to manifest itself until the final week before submission.
 
 
 ## Sources:
