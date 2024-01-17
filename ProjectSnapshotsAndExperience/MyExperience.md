@@ -4,6 +4,7 @@ The project with Rise was a harrowing and stressing experience - partly in part 
 Although this was the case, the experience greatly impacted me as I had realized many parts of myself that I would not have realized without the added stress that I put myself under.
 
 
+## winter Break and Pre-planning
 
 
 
