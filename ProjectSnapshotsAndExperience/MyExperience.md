@@ -1,10 +1,11 @@
-# My Experience With Rise January 17 2024
+# My Experience With Rise January 17, 2024
 
-The project with Rise was a harrowing and stressing experience - partly in part due to my selection of topic with a desire to challenge myself. 
-Although this was the case, the experience greatly impacted me as I had realized many parts of myself that I would not have realized without the added stress that I put myself under.
+The project with Rise was a harrowing and stressful experience - partly in part due to my selection of topics with a desire to challenge myself. 
+Although this was the case, the experience greatly impacted me as I realized many parts of myself that I would not have realized without the added stress that I put myself under.
 
 
-## winter Break and Pre-planning
+## Winter Break and Pre-planning
+Winter Break was when I first began the Project. I had planned to begin research, but studying a multitude of papers soon demoralized me as I encountered the deluge of information hidden behind arxiv pages and researchgate paywalls.
 
 
 
