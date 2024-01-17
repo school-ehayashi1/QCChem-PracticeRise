@@ -53,6 +53,11 @@ https://qiskit.org/ecosystem/nature/stubs/qiskit_nature.second_q.problems.Electr
 https://quantumcomputing.stackexchange.com/questions/27145/clarification-on-the-usage-of-class-ucc-of-qiskit-nature
 https://qiskit.org/ecosystem/nature/locale/bn_BN/migration/0.5_c_electronic_structure.html
 https://qiskit.org/ecosystem/nature/stubs/qiskit_nature.second_q.drivers.PySCFDriver.html#pyscfdriver
+
+Qiskit and IBM Quantum Libraries + Code
+IBM Quantum. https://quantum.ibm.com/, 2021
+https://www.ibm.com/quantum/qiskit
+
 https://en.wikipedia.org/wiki/Time-dependent_density_functional_theory
 Alpha + Beta values - https://www.echemi.com/community/what-is-meant-by-alpha-orbital-and-beta-orbital_mjart2204105892_433.html
 https://medium.com/qiskit/introducing-qiskit-nature-cb9e588bb004 Intro to Qiskit Nature
